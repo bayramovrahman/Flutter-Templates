@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482390597330",
+    "project_id": "fir-setup-register-ddfd2",
+    "storage_bucket": "fir-setup-register-ddfd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482390597330:android:e617eec1a54d9f7ae8570b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_setup_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd_ZL38Dc5kzAIN1bWxX_RGsi3Zy1z2zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
